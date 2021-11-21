@@ -1,0 +1,41 @@
+.dItemDetails{
+	margin-top:2.5vh;
+	height : 80vh;
+	margin-bottom: 2.5vh;
+	
+	display: flex;
+
+}
+.dleft{
+	margin-left: 5%;
+	width: 45%;
+	border-style: inset;
+}
+.dright{
+	margin-right: 5%;
+	width: 45%;
+	border-style: inset;
+}
+.ditemimage{
+	height: 90%;
+	width: 90%;
+	margin-left: 5%;
+}
+.dprice{
+	justify-content: left;
+	margin-left: 5%;
+	font-size: 2rem;
+}
+.dbottom{
+	height: 5vh;
+}
+.daddtocart{
+	background-color: green;
+	height: 100%;
+
+	color: white;
+	padding: 10px;
+	border-radius: 10px;
+	border-color: white;
+	font-size: 1.5vw;
+}

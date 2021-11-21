@@ -1,0 +1,48 @@
+#Header{
+background-color: #56baed;
+	height : 10vh;
+	width: 100%;
+	position: fixed;
+	border-bottom-color: darkgrey;
+	border-bottom-style:  solid;
+
+}
+.headercontent{
+	
+	display: flex;
+	margin-left: 3%;
+	margin-right: 3%;
+}
+.title{
+
+	color: white;
+	width: 20%;
+	font-size: 2rem;
+	font-weight: bold;
+	text-decoration: none;
+}
+.searchbar{
+	width: 66%;
+	height: 3vh;
+	background-color: transparent;
+	border-radius: 10px;
+}
+.searchbutton{
+	height: 3.6vh;
+	width: 4%;
+	background: none;
+	border: none;
+}
+.searchbar, .searchbutton{
+	margin-top: 2%;
+}
+.user{
+	width: 10%;
+	text-align: right;
+}
+.cart{
+	font-size: 2rem;
+}
+.headercontent{
+	
+}

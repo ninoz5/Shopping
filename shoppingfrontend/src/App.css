@@ -1,0 +1,19 @@
+.mainheader{
+  height: 10vh;
+  
+}
+.App{
+background: rgb(86,186,237);
+background: radial-gradient(circle, rgba(86,186,237,0.11725663716814161) 0%, rgba(166,198,214,0.331858407079646) 100%);
+  height: 100vh;
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+} 
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+} 
+::-webkit-scrollbar-thumb {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+}

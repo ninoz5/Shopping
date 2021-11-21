@@ -1,0 +1,30 @@
+.categories{
+	width: 11%;
+	height: 90vh;
+	position: fixed;
+	display: flex;
+	flex-direction: column;
+	overflow: auto;
+	
+	border-right-style: solid;
+	border-color: darkgrey;
+	font-size: 2vw;
+
+}
+.catname{
+	text-transform: capitalize;
+	text-decoration: none;
+	color: black;
+}
+.category{
+	padding-left: 10%;
+	color: black;
+	margin-top: 10px;
+	text-decoration: none;
+}
+.category:hover{
+	cursor: pointer;
+	background-color: yellow;
+	border-top-right-radius: 15px;
+	color: green;
+}

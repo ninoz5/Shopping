@@ -1,0 +1,14 @@
+.available{
+  display: flex;
+   flex-wrap: wrap;
+  overflow: auto;
+  justify-content: left;
+
+  width: 100%;
+  
+  
+}
+.itemsforshow{
+  width: 89%;
+  margin-left: 11%;
+}
